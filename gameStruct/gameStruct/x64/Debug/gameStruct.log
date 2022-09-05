@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\villa\source\repos\gameStruct\gameStruct\Source.cpp(40,4): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\villa\source\repos\gameStruct\gameStruct\Source.cpp(59,6): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+  gameStruct.vcxproj -> C:\Users\villa\source\repos\gameStruct\x64\Debug\gameStruct.exe
